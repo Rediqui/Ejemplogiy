@@ -2,8 +2,6 @@
 
 Esta es mi primera prueba en git
 
-Ahora este es un acierto
+Creado por Juan Carlos Mireles Renaud
 
-Esto es para ver una actualizacion despues
-
-Ahora este es para afirmar que se quito el error
+El dia 8/30/2022
